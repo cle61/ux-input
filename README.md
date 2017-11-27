@@ -8,6 +8,6 @@ Can choose `http` or `https`
 
 - Money input
 
-- Suggestion input
+- Predictive search
 
 Like a select but can write anything
